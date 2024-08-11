@@ -1,7 +1,9 @@
 # Hi there, I'm Samarpan 👋
 
 ## 🌐 Socials
+- [Portfolio](https://saminsights.github.io/Portfolio_website/)
 - [LinkedIn](https://www.linkedin.com/in/samarpan-bothra-192a73210/)
+  
 
 ## 💼 Professional Summary
 Dynamic and results-oriented Business Data Analyst with 3+ years in data-driven decision-making and process optimization. Skilled in data analytics, predictive modeling, and data visualization. Proven track record of enhancing operational efficiencies and driving strategic outcomes across sectors. Proficient in SQL, Power BI, Tableau, Python, R, and other business intelligence tools.
